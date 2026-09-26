@@ -28,9 +28,14 @@
           "developStatus": "稳定",
           "defect": "边角显影不均",
           "repair": "边角重涂",
-          "note": "放入A盒"
+          "note": "放入A盒",
+          "id": "ST-muip3l7kmc9lj",
+          "rechecks": [],
+          "archives": [],
+          "affected": false
         }
-      ]
+      ],
+      "archives": []
     }
   ]
 }
